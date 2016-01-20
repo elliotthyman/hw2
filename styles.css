@@ -19,3 +19,7 @@ h3 {
   border-bottom: solid 4px gray;
   padding-bottom: 8px;
 }
+
+h6 {
+  padding-top: 30px;
+}
